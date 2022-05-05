@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+@import url("conponents/container.css");
+@import url("conponents/button.css");
+@import url("conponents/banner.css");
+@import url("conponents/card.css");
+
+
+body {
+	font-family: 'Tapestry', cursive;
+	font-size: 18px;
+	margin :0 px;
+	background-color:#a3a6f7;
+}
+h1, h2 , h3{
+    font-family: 'Tapestry', cursive;
+	font-weight:bold ;
+	color:  #7e497e;
+}
+a {
+	text-decoration: none;
+}
